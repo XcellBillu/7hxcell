@@ -1,9 +1,9 @@
 ---
 #preview
-title: Museums Art Concept
-image: /images/project-n01-3-1200x900.jpg
-category: Branding
-category_slug: branding
+title: Documentary, CSR, Animation...
+image: /images/gifs/7H_Training.gif
+category: Films
+category_slug: films
 type: Art Direction, Branding, Interactive Design
 team: Thomas Jackki
 date: 2021-2023

@@ -1,10 +1,10 @@
 ---
 #preview
-title: Daily Weather Mobile App
-image: /images/project-8-1080x800.jpg
+title: Illustration, VFX, Reels...
+image: /images/gifs/7H_Events.gif
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
-category: Interactive
-category_slug: interactive
+category: Digital
+category_slug: digital
 type: Art Direction, Branding, Interactive Design
 team: Thomas Jackki
 date: 2021-2023

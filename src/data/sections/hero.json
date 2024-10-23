@@ -1,8 +1,8 @@
 {
-    "video": "/video/stvideo.mp4",
+    "video": "./video/7HShowreel.mp4",
     "title": {
-        "text": "We Make <br/>Everything",
+        "text": "360°<br/>Agency",
         "icon": "/images/title_icon.svg"
     },
-    "subtitle": "Creative studio at the <br/> intersection of art, design <br/> and technology."
+    "subtitle": "We are capable of <br/>going that extra mile <br/>for our clients."
 }

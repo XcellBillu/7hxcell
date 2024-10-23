@@ -1,9 +1,9 @@
 ---
 #preview
-title: Business Card Logo
-image: /images/project-4.jpg
-category: Design
-category_slug: design
+title: Education, Media, MarCom...
+image: /images/gifs/7H_Tech.gif
+category: Training
+category_slug: training
 type: Marketing, Rendering, 3D Design
 team: Lina Watson
 date: 2021-2023

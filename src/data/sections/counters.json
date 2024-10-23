@@ -1,19 +1,19 @@
 {
     "items": [
         {
-            "value": "23",
-            "label": "Team members",
-            "after": ""
-        },
-        {
-            "value": "99",
-            "label": "Completed projects",
+            "value": "5000",
+            "label": "Projects",
             "after": "+"
         },
         {
-            "value": "12",
-            "label": "Lines of code",
-            "after": "M"
+            "value": "75",
+            "label": "Clients",
+            "after": "+"
+        },
+        {
+            "value": "7",
+            "label": "Countries",
+            "after": "+"
         }
     ]
 }

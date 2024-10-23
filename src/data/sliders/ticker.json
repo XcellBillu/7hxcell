@@ -1,19 +1,23 @@
 {
     "items": [
         {
-            "label": "- Brand Strategy",
+            "label": "- Events",
             "link": "/services/service-1"
         },
         {
-            "label": "- Creative Direction",
+            "label": "- Television",
             "link": "/services/service-2"
         },
         {
-            "label": "- Native and Web Apps",
+            "label": "- Filming",
             "link": "/services/service-3"
         },
         {
-            "label": "- Machine Learning / AI",
+            "label": "- Production",
+            "link": "/services/service-4"
+        },
+        {
+            "label": "- Experience",
             "link": "/services/service-4"
         }
     ]

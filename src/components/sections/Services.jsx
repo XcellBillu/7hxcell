@@ -12,13 +12,13 @@ const ServicesSection = () => {
   return (
     <>
         {/* Onovo Services */}
-        <section className="onovo-section gap-top-140 gap-bottom-140">
-            <div className="container-xl">
+        <section className="onovo-section gap-top-100 gap-bottom-90">
+            <div className="container-n">
 
                 {/* Services items */}
-                <div className="row onovo-services-grid-fw">
+                <div className="row onovo-services-grid-fw m-auto">
                     {Data.items.map((item, key) => (
-                    <div key={`services-item-${key}`} className="col-xs-12 col-sm-12 col-md-6 col-lg-4 align-center">
+                    <div key={`services-item-${key}`} className="col-xs-12 col-sm-12 col-md-6 col-lg-3 align-center">
                         <div className={key == 1 ? "onovo-service-grid-item onovo-hover-1 active active--default" : "onovo-service-grid-item onovo-hover-1"}>
                             <div className="image">
                                 <Link href={item.link}>

@@ -6,6 +6,7 @@ import 'splitting/dist/splitting.css'
 import 'splitting/dist/splitting-cells.css'
 import Splitting from 'splitting'
 import ScrollOut from 'scroll-out'
+// import VideoSt from './video/hyundai.mp4'
 
 const HeroSection = () => {
 	useEffect(() => {
@@ -45,6 +46,8 @@ const HeroSection = () => {
 					<video autoPlay muted={!mute} loop playsInline id="heroVideo">
 						<source src={Data.video} type="video/mp4" />
 					</video>
+					{/* <iframe className="js-video-iframe" data-src={"https://www.youtube.com/embed/"+Data.yt_video_id+"?showinfo=0&rel=0&autoplay=1"} /> */}
+					{/* <iframe width='100%' height='100%' src="https://www.youtube.com/embed/MpM9FjFCkmY?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe> */}
 					<div className="ovrl" style={{"opacity": "0.25"}} />
 				</div>
 				<div className="container">

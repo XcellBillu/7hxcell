@@ -1,10 +1,10 @@
 ---
 #preview
-title: Circle Cardboard Concept
-image: /images/project-1-1080x800.jpg
+title: Pitch Deck, Creatives....
+image: /images/gifs/7H_Films.gif
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
-category: Branding
-category_slug: branding
+category: Design
+category_slug: Design
 type: Illustration, Branding, Poster Design
 team: Lina Watson
 date: 2022-2023

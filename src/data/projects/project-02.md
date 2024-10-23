@@ -1,9 +1,9 @@
 ---
 #preview
-title: Market Economy Graphics
-image: /images/project-2-2-1200x982.jpg
-category: Marketing
-category_slug: marketing
+title: Awards, Off-Shore, Townhall...
+image: /images/gifs/7H_Events.gif
+category: Events
+category_slug: events
 type: UI/UX Design, Mobile Apps, Interactive Design
 team: Alexander Bravo
 date: 2021-2023

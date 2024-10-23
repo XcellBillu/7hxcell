@@ -4,43 +4,63 @@
     "items": [
         {
             "link": "https://google.com",
-            "label": "Visit Website",
-            "image": "/images/brand1.png"
+            "label": "See the work",
+            "image": "/images/clients/ndtv.png"
         },
         {
             "link": "https://google.com",
-            "label": "Visit Website",
-            "image": "/images/brand2.png"
+            "label": "See the work",
+            "image": "/images/clients/hero.png"
         },
         {
             "link": "https://google.com",
-            "label": "Visit Website",
-            "image": "/images/brand3.png"
+            "label": "See the work",
+            "image": "/images/clients/bcg.png"
         },
         {
             "link": "https://google.com",
-            "label": "Visit Website",
-            "image": "/images/brand4.png"
+            "label": "See the work",
+            "image": "/images/clients/ey.png"
         },
         {
             "link": "https://google.com",
-            "label": "Visit Website",
-            "image": "/images/brand5.png"
+            "label": "See the work",
+            "image": "/images/clients/hyundai.png"
         },
         {
             "link": "https://google.com",
-            "label": "Visit Website",
-            "image": "/images/brand6.png"
+            "label": "See the work",
+            "image": "/images/clients/amazon.png"
         },
         {
             "link": "https://google.com",
-            "label": "Visit Website",
-            "image": "/images/brand7.png"
+            "label": "See the work",
+            "image": "/images/clients/kia.png"
         },
         {
             "link": "https://google.com",
-            "label": "Visit Website",
-            "image": "/images/brand2.png"
+            "label": "See the work",
+            "image": "/images/clients/uflex.png"
+        },
+        {
+            "link": "https://google.com",
+            "label": "See the work",
+            "image": "/images/clients/amazon.png"
+        },
+        {
+            "link": "https://google.com",
+            "label": "See the work",
+            "image": "/images/clients/kia.png"
+        },
+        {
+            "link": "https://google.com",
+            "label": "See the work",
+            "image": "/images/clients/uflex.png"
+        },
+        {
+            "link": "https://google.com",
+            "label": "See the work",
+            "image": "/images/clients/uflex.png"
         }
     ]
 }

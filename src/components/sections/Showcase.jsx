@@ -12,7 +12,9 @@ const ShowcaseSection = ( { projects } ) => {
     return (
         <>
             {/* Onovo Showcase */}
-			<section className="onovo-section gap-bottom-140" style={{"borderBottom": "1px solid #555"}}>
+			{/* <section className="onovo-section gap-top-90 gap-bottom-140" style={{"borderBottom": "1px solid #555"}}> */}
+
+			<section className="onovo-section gap-top-90 gap-bottom-40">
 				<div className="container">
 
 					{/* Heading */}
@@ -55,12 +57,12 @@ const ShowcaseSection = ( { projects } ) => {
 					</div>
 
 					{/* Button */}
-					<Link className="onovo-btn onovo-hover-btn" href={Data.button.link}>
+					{/* <Link className="onovo-btn onovo-hover-btn" href={Data.button.link}>
 						<i className="arrow">
 							<span />
 						</i>
 						<span>{Data.button.label}</span>
-					</Link>
+					</Link> */}
 
 				</div>
 			</section>

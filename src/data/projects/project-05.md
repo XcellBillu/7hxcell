@@ -1,9 +1,9 @@
 ---
 #preview
-title: Flower Store Mobile App
-image: /images/project-3-1200x750.jpg
-category: Interactive
-category_slug: interactive
+title: Multicam, Sports, Fillers...
+image: /images/gifs/7H_Design.gif
+category: Broadcasts
+category_slug: broadcasts
 type: Marketing, Rendering, 3D Design
 team: Lina Watson
 date: 2022-2023

@@ -74,7 +74,7 @@ const DefaultHeader = ({ darkHeader, cartButton }) => {
               <div className="col-4 col-xs-4 col-sm-4 col-md-4 col-lg-3 align-self-center">
 
                 {/* Logo */}
-                <div className="onovo-logo-image" style={{"maxWidth": "70px"}}>
+                <div className="onovo-logo-image" style={{"maxWidth": "100px"}}>
                   <Link href="/">
                     <img src={appData.header.logo.image} alt={appData.header.logo.alt} />
                     <img className="logo--white" src={appData.header.logo.image_white} alt={appData.header.logo.alt} />
@@ -85,6 +85,21 @@ const DefaultHeader = ({ darkHeader, cartButton }) => {
               <div className="col-4 col-xs-4 col-sm-4 col-md-4 col-lg-6 align-self-center align-center">
 
                 {/* Menu Hamburger */}
+               
+
+              </div>
+              <div className="col-4 col-xs-4 col-sm-4 col-md-4 col-lg-3 align-self-center align-right">
+
+                {/* Button */}
+                {/* <Link className="onovo-head-btn onovo-hover-btn" href={appData.header.button.link}>
+                  <span>
+                    <span className="onovo-lnk lnk--active">{appData.header.button.label}</span>
+                  </span>
+                  <i className="arrow">
+                    <span />
+                  </i>
+                </Link> */}
+
                 <a href="#" className={desktopMenu ? "onovo-menu-btn btn--active" : "onovo-menu-btn"} onClick={ (e) => clickedDesktopMenu(e) }><span /></a>
 
                 <div className="onovo-menu-popup align-left">
@@ -117,19 +132,6 @@ const DefaultHeader = ({ darkHeader, cartButton }) => {
                     </div>
                   </div>
                 </div>
-
-              </div>
-              <div className="col-4 col-xs-4 col-sm-4 col-md-4 col-lg-3 align-self-center align-right">
-
-                {/* Button */}
-                <Link className="onovo-head-btn onovo-hover-btn" href={appData.header.button.link}>
-                  <span>
-                    <span className="onovo-lnk lnk--active">{appData.header.button.label}</span>
-                  </span>
-                  <i className="arrow">
-                    <span />
-                  </i>
-                </Link>
 
               </div>
             </div>

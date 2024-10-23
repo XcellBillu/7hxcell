@@ -1,21 +1,27 @@
 {
     "items": [
         {
-            "image": "/images/serv-icon1.png",
-            "title": "Creation",
-            "text": "Developing websites is about so much more than marketing. It’s also about aesthetics.",
+            "image": "/images/servicons/video-productions.png",
+            "title": "Videos",
+            "text": "Crafting engaging video content, from promotional reels to in-depth storytelling, tailored to amplify your brand's impact.",
             "link": "/services/service-1"
         },
         {
-            "image": "/images/serv-icon2.png",
-            "title": "Websites",
-            "text": "Developing websites is about so much more than marketing. It’s also about aesthetics.",
+            "image": "/images/servicons/event-planner.png",
+            "title": "Events",
+            "text": "Creating memorable experiences with seamless event planning, from product launches to corporate meets.",
             "link": "/services/service-2"
         },
         {
-            "image": "/images/serv-icon3.png",
-            "title": "Studio",
-            "text": "Developing websites is about so much more than marketing. It’s also about aesthetics.",
+            "image": "/images/servicons/films.png",
+            "title": "Films",
+            "text": "Producing cinematic films that captivate audiences, blending creative vision with professional execution.",
+            "link": "/services/service-3"
+        },
+        {
+            "image": "/images/servicons/vr.png",
+            "title": "IT & Tech",
+            "text": "Offering cutting-edge digital solutions, including web development, software integration, and tech support.",
             "link": "/services/service-3"
         }
     ]

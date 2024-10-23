@@ -1,9 +1,9 @@
 ---
 #preview
-title: Headphones 3D Rendering
-image: /images/project-2-1200x988.jpg
-category: Design
-category_slug: design
+title: Web Dev, Data Anlytics...
+image: /images/gifs/7H_Films.gif
+category: Tech
+category_slug: tech
 type: UI/UX Design, Branding, Logo Design
 team: Steven Morrison
 date: 2021-2023

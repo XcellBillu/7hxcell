@@ -1,9 +1,9 @@
 {
-    "subtitle": "Featured Projects",
-    "title": "Studio Showcase",
+    "subtitle": "Featured Services",
+    "title": "Industry Demands",
     "button": {
-        "label": "All Projects",
-        "link": "/projects"
+        "label": "Know More",
+        "link": ""
     },
-    "numOfItems": 5
+    "numOfItems": 7
 }
