@@ -43,11 +43,10 @@ const Home1 = (props) => {
         <VideoSection />
         <TestimonialSlider />
         {/* <CallToActionSection /> */}
-        
         <LatestPostsSection posts={props.posts} />
-        
       </>
-    </Layouts>
+      
+        </Layouts>
   );
 };
 export default Home1;

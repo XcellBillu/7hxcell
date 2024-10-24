@@ -288,7 +288,9 @@ span.onovo-lnk.lnk--active::after,
 .wp-block-tag-cloud a,
 .sidebar__tag-item,
 .onovo-post-tags a {
-    background-color: $theme_color;
+    // background-color: $theme_color;
+    background-image: url('../../../public/images/logo/outline7h.png');
+
 }
 .onovo-team-item:hover .num,
 .onovo-cta-info .email,

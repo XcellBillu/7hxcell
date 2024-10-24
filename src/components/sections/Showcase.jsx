@@ -1,7 +1,7 @@
 import Data from "@data/sections/showcase.json";
 import Link from "next/link";
 import { useEffect } from "react";
-
+import Back7 from '../../../public/images/logo/filled7h.png'
 import { showcaseHover } from "@common/utilits";
 
 const ShowcaseSection = ( { projects } ) => {
@@ -29,8 +29,10 @@ const ShowcaseSection = ( { projects } ) => {
 
 					{/* Showcase */}
 					<div className="onovo-showcase gap-bottom-40">
-						<div className="img-circle onovo-circle-move" />
-
+					<img src={Back7.src} className="img-circle onovo-circle-move" alt="" />
+						{/* <div className="img-circle onovo-circle-move">
+							
+						</div> */}
 						{/* Showcase items */}
 						<div className="onovo-showcase-items">
                             {projects.slice(0, Data.numOfItems).map((item, key) => (

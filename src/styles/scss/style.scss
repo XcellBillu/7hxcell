@@ -1055,7 +1055,7 @@ hr {
 
 /*animations*/
 .onovo-circle-move {
-	animation: onovo-circle-move 6s infinite ease-in-out;
+	// animation: onovo-circle-move 3s infinite ease-in-out;
 }
 @keyframes onovo-circle-move {
 	0% {
@@ -1149,7 +1149,16 @@ hr {
 	background: #84B386ff;
 	pointer-events: none;
 }
+.onovo-brands:hover{
+	border: 3px solid #ffffff;
+	transition: 0.1s all ease-in-out;
 
+}
+.onovo-brands:hover{
+	border: 3px solid #84b386;
+	transition: 0.1s all ease-in-out;
+	cursor: pointer;
+}
 .onovo-hover-2::before {
 	left: 3px;
 	top: 3px;
@@ -4292,12 +4301,13 @@ ul.onovo-footer-menu li {
 
 .onovo-services-showcase .items .img-circle {
 	content: '';
+	background-image: url('../../../public/images/logo/outline7h.png');
 	position: absolute;
 	top: 90px;
 	left: 28%;
 	width: 366px;
 	height: 366px;
-	background: #84B386ff;
+	background: transparent;
 	border-radius: 100%;
 	transition: all .4s cubic-bezier(0.3, 0, 0.3, 1);
 	-webkit-transition: all .4s cubic-bezier(0.3, 0, 0.3, 1);
@@ -4770,8 +4780,8 @@ ul.onovo-footer-menu li {
 	right: 200px;
 	width: 420px;
 	height: 420px;
-	background: #84B386ff;
-	border-radius: 100%;
+	// background: #84B386ff;
+	// border-radius: 100%;
 	transform: scale(1);
 	transition: all .4s cubic-bezier(0.3, 0, 0.3, 1);
 	-webkit-transition: all .4s cubic-bezier(0.3, 0, 0.3, 1);
@@ -4824,16 +4834,26 @@ ul.onovo-footer-menu li {
 }
 
 .onovo-showcase-item.hover .title a {
-	color: #000;
+	color: #84b386;
+	// .word{
+	// 	background-color: #84b386;
+	// 	color: white;
+	// }
+}
+.onovo-showcase-item.hover  {
+	.category >a{
+		background-color: #84b386;
+		// color: rgb(0, 0, 0);
+	}
 }
 
 .onovo-showcase-item .image {
 	position: absolute;
 	overflow: hidden;
-	top: 50px;
-	right: 50px;
-	width: 480px;
-	height: 370px;
+    top: 105px;
+    right: -99px;
+    width: 480px;
+    height: 370px;
 	opacity: 0;
 	transform: translate(-30%, -10%) rotate(-30deg) scale(0.3);
 	-webkit-transform: translate(-30%, -10%) rotate(-30deg) scale(0.3);
@@ -4859,7 +4879,7 @@ ul.onovo-footer-menu li {
 .onovo-showcase-item.hover .image {
 	opacity: 1;
 	transform: translate(0, 0) rotate(-20deg) scale(1);
-	-webkit-transform: translate(0, 0) rotate(-20deg) scale(1);
+	-webkit-transform: translate(0, 0) rotate(-10deg) scale(1);
 	z-index: 2;
 }
 
@@ -5554,7 +5574,7 @@ ul.onovo-footer-menu li {
 
 .onovo-cta-social .cta-img-circle {
 	position: absolute;
-	background: #84B386ff;
+	// background: #84B386ff;
 	border-radius: 100%;
 	-webkit-border-radius: 100%;
 	animation: onovoCtaCircle 1.5s cubic-bezier(0.3, 0, 0.3, 1) infinite;
